@@ -3,7 +3,7 @@
 Using GOG GALAXY features, you have two options to implement synchronization of user’s save files with the Cloud:
 
 - Automatic saves syncing through the GOG GALAXY client
-- The [IStorage interface](sdk-storage.md) from the GOG GALAXY SDK.
+- The [lStorage interface](sdk-storage.md) from the GOG GALAXY SDK.
 
 ## Automatic Cloud Saves Syncing
 
